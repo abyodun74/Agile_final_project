@@ -1,18 +1,5 @@
----
-name: user-story
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
-
----
 
 markdown---
-name: "💡 Feature Request (Gherkin)"
-about: Submit a new user story using Given/When/Then acceptance criteria.
-title: "[Story]: "
-labels: ["enhancement", "triage"]
----
 
 ### User Story
 **As a** [type of user]  
